@@ -7,7 +7,17 @@
 .action-btn button {
   width: 150px;
   height: 140px;
+  color: white;
+  font-size: 3.5rem;
   background: rgb(151, 34, 34);
+}
+
+.num-btn button {
+  width: 150px;
+  height: 140px;
+  background:white;
+  font-size: 3rem;
+  text-align: center;
 }
 
 .num-btn .clear {
@@ -17,4 +27,12 @@
   font-size: 3rem;
   text-align: center;
   font-weight: 100;
+}
+
+.num-btn .zero {
+  width: 450px;
+  height: 140px;
+  background:white;
+  font-size: 3rem;
+  text-align: center;
 }
